@@ -1,4 +1,4 @@
-# MsAccess-PrgressBar 2
+# MsAccess-ProgressBar 2
 
 v 1.0 Petite démo de barre de progréssion.
 
