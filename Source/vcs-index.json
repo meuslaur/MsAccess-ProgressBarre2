@@ -6,7 +6,7 @@
   "Items": {
     "MergeBuildDate": null,
     "FullBuildDate": null,
-    "ExportDate": "04/09/2022 18:32:58",
+    "ExportDate": "04/09/2022 19:47:59",
     "FullExportDate": "04/09/2022 18:32:58",
     "OptionsHash": "6a60451",
     "LastMergedCommit": "",
@@ -14,9 +14,9 @@
       "Forms": {
         "F_Barre2Demo.bas": {
           "Hash": "0c5ce9f",
-          "ExportDate": "04/09/2022 18:32:58",
-          "SourceModified": "04/09/2022 18:32:58",
-          "FilePropertiesHash": "7ab8904"
+          "ExportDate": "04/09/2022 19:47:59",
+          "SourceModified": "04/09/2022 19:47:59",
+          "FilePropertiesHash": "a7bc5c6"
         }
       },
       "Modules": {
@@ -30,7 +30,7 @@
       "Project": {
         "project.json": {
           "Hash": "19c3478",
-          "ExportDate": "04/09/2022 18:32:58",
+          "ExportDate": "04/09/2022 19:47:59",
           "SourceModified": "04/09/2022 18:32:58",
           "FilePropertiesHash": "c636991"
         }
@@ -38,7 +38,7 @@
       "VB Project": {
         "vbe-project.json": {
           "Hash": "c807f9f",
-          "ExportDate": "04/09/2022 18:32:58",
+          "ExportDate": "04/09/2022 19:47:59",
           "SourceModified": "04/09/2022 18:32:58",
           "FilePropertiesHash": "1fb82ed"
         }
@@ -46,7 +46,7 @@
       "VBE References": {
         "vbe-references.json": {
           "Hash": "9521cdc",
-          "ExportDate": "04/09/2022 18:32:58",
+          "ExportDate": "04/09/2022 19:47:59",
           "SourceModified": "04/09/2022 18:32:58",
           "FilePropertiesHash": "5819b6e"
         }

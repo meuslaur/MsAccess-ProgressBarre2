@@ -18,10 +18,10 @@ Begin Form
     Width =15533
     DatasheetFontHeight =11
     ItemSuffix =9
-    Left =6288
-    Top =3300
-    Right =21816
-    Bottom =6660
+    Left =1848
+    Top =3180
+    Right =17376
+    Bottom =6540
     RecSrcDt = Begin
         0x8ff0465d12e1e540
     End
@@ -152,7 +152,6 @@ Begin Form
                     Name ="lbl_M2BarreDeb"
                     Caption =" "
                     GridlineColor =10921638
-                    HorizontalAnchor =1
                     LayoutCachedLeft =3798
                     LayoutCachedTop =170
                     LayoutCachedWidth =5670
@@ -264,7 +263,6 @@ Begin Form
                     Name ="lbl_M2Texte"
                     Caption ="100 %"
                     GridlineColor =10921638
-                    HorizontalAnchor =1
                     LayoutCachedLeft =232
                     LayoutCachedTop =396
                     LayoutCachedWidth =1000
