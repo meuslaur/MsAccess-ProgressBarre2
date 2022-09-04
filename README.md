@@ -1,6 +1,8 @@
-# MsAccess-ProgressBar 2
+# MsAccess-ProgressBarrre2
 
 v 1.0 Petite démo de barre de progréssion.
+
+Idée inspiré de [nala](https://github.com/volitank/nala)
 
 # Formulaire F_Barre2Demo
 
