@@ -12,6 +12,40 @@ Idée inspiré de [nala](https://github.com/volitank/nala)
 
 - Ouvrir le formulaire `F_Barre2Demo`
 
+# Déclaration de la classe
+
+```VB
+    Dim Prb As C_ProgB2
+    Set Prb = New C_ProgB2
+```
+- INFO vous pouvez déclarer le nom des labels (AVANT l'initialisation) avec :
+```VB
+    Prb.NomLabelGauche = Me.lblxx.Name
+    Prb.NomLabelDroite = Me.lblxx.Name
+    Prb.NomLabelInfo = Me.lblxx.Name
+    Prb.NomLabelRota = Me.lblxx.Name
+```
+- Sinon la classe utiliseras les noms par defaut avec les Constantes : `LBL_GAUCHE`, `LBL_DROITE`, `LBL_INFO`, `LBL_ROTA`.
+
+- Paramètres optionnels de la barre (a faire AVANT l'initialisation (`InitLabels`))
+```VB
+    Prb.LabelWidth = Nz(Me.txtTaille)   '// Optionnel(Defaut voir Const LBL_WIDTH)  a definir AVANT l'initialisation.
+    Prb.LabelHeight = Nz(Me.txtHauteur) '// Optionnel(Deafut voit Const LBL_HAUT)   a definir AVANT l'initialisation.
+```
+- Initialisation de la classe :
+```VB
+    Prb.InitLabels Me, Me.txtBoucle
+```
+- Actualisation :
+```VB
+    Prb.UpdateLabels
+    DoEvents
+```
+- Reset des labels à la fin de votre code:
+```VB
+    Prb.CleanLabels
+```
+
 ## Important :
 
 - Pour un positionnement correct des labels, suivre les indications ci-dessous
