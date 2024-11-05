@@ -1,3 +1,5 @@
+<img align="left" src="https://github.com/meuslaur/meuslaur/blob/main/Logo_MsAccess.png" width="64px" >
+
 # MsAccess-ProgressBarrre2
 
 v 1.0 Petite démo de barre de progression.
